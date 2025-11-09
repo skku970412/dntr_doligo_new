@@ -1,0 +1,26 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# Build / distribution artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs & experiment outputs
+*.log
+DNTR/mmdet-dntr/logs/
+
+# Checkpoints & large binaries
+*.pth
+*.pkl
+
+# IDE settings
+.vscode/
+.idea/
