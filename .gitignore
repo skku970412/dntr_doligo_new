@@ -7,6 +7,7 @@ __pycache__/
 venv/
 .venv/
 ENV/
+venv2/
 
 # Build / distribution artifacts
 build/
